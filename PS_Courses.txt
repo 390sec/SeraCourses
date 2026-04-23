@@ -38,3 +38,24 @@ Data Science(19)
 Email Automation(19)
 Data Storage(18)
 Pandas (Python Package)(18)
+
+
+
+
+
+THE FEW List of the first list 
+
+
+https://www.coursera.org/search?productTypeDescription=Guided%20Projects&productTypeDescription=Projects&skills=Command-Line%20Interface&skills=Computer%20Programming&skills=Presentations&skills=Programming%20Principles&skills=Python%20Programming&skills=Microsoft%20Excel&sortBy=BEST_MATCH
+
+
+
+The list where we can take ; 
+
+
+Python Programming(159)
+Presentations(87)
+Command-Line Interface(57)
+Microsoft Excel(57)
+Computer Programming(43)
+Programming Principles (43)
