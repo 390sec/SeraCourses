@@ -2,6 +2,11 @@ https://www.coursera.org/search?isPartOfCourseraPlus=true&language=English&produ
 
 PRIMARY_SKILLS : PS
 
+
+https://www.coursera.org/search?isPartOfCourseraPlus=true&language=English&productDifficultyLevel=Beginner&productDifficultyLevel=Intermediate&productDifficultyLevel=Advanced&productTypeDescription=Guided%20Projects&productTypeDescription=Projects&skills=Big%20Data&skills=Command-Line%20Interface&skills=Data%20Access&skills=Data%20Analysis&skills=Data%20Cleansing&skills=Data%20Import%2FExport&skills=Data%20Integration&skills=Data%20Management&skills=Data%20Manipulation&skills=Data%20Pipelines&skills=Data%20Preprocessing&skills=Data%20Presentation&skills=Data%20Science&skills=Data%20Sharing&skills=Data%20Storage&skills=Data%20Visualization&skills=Data%20Visualization%20Software&skills=Database%20Administration&skills=Database%20Management&skills=Databases&skills=Document%20Management&skills=Email%20Automation&skills=Exploratory%20Data%20Analysis&skills=Microsoft%20Excel&skills=Pandas%20%28Python%20Package%29&skills=Presentations&skills=Project%20Management&skills=Project%20Management%20Software&skills=Prompt%20Engineering&skills=Python%20Programming&skills=SQL&subtitleLanguage=English&topic=Computer%20Science&topic=Data%20Science&topic=Information%20Technology&sortBy=BEST_MATCH
+
+
+
 Data Analysis(110)
 Data Visualization(79)
 Data Import/Export(63)
